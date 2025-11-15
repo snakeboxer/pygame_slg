@@ -1,4 +1,4 @@
-from src.my_gomoku.server.game_session import GameSession
+from server.game_session import GameSession
 
 
 class Table:

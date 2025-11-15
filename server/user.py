@@ -1,4 +1,4 @@
-from socket import socket
+from my_gomokuk.server.socket import socket
 
 class User:
 
